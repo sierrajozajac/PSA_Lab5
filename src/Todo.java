@@ -9,16 +9,19 @@ Tasks:
 2. Add Calculator.java exception handling
 3. Finish the execute method
 4. Finish the parse and execute method
+5. Upload everything onto zylabs and github
 
 Estimated Time (minutes):
-1. 30
+1. 60
 2. 20
 3. 15
 4. 10
+5. 30
 
 Actual Time (minutes):
-1. 50
+1. 75
 2. 15
 3. 5
 4. 5
+5. 30
 */}

@@ -51,7 +51,7 @@ public class Calculator
             return ret;
     	}
     	catch (NumberFormatException n) {
-    		throw new NumberFormatException("Illegal Command");
+    		throw new NumberFormatException(n.getMessage());
     	}
     	catch (CalculatorException c) {
     		throw new CalculatorException(c.getMessage());
